@@ -1,5 +1,7 @@
 # phzr
 
+[![Join the chat at https://gitter.im/Kauko/phzr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kauko/phzr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A ClojureScript wrapper for the Phaser HTML5 game framework.
 
 ![](https://clojars.org/phzr/latest-version.svg)
